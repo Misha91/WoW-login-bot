@@ -1,0 +1,34 @@
+login = account_name
+password = password
+acc = dd
+server = shazzrah
+WOW_PATH = C:\\Program Files (x86)\\World of Warcraft\\_classic_\\Wow.exe
+TES_PATH = C:\\Program Files\\Tesseract-OCR\\tesseract.exe
+MINDELAY = 50
+MAXDELAY = 200
+X_STEP_COEFF = 0.003
+Y_STEP_COEFF = 0.025
+X_RAND_COEFF = 0.01
+Y_RAND_COEFF = 0.001
+USER = 0
+Ashbringer
+Bloodfang
+Dreadmist
+Firemaw
+Flamelash
+Gandling
+Gehennas
+Golemagg
+Hydraxian Waterlords
+Judgement
+Mirage Raceway
+Mograine
+Nethergarde Keep
+Noggenfogger
+Pyrewood Village
+Razorgore
+Shazzrah
+Skullflame
+Stonespine
+Ten Storms
+Zandalar Tribe
