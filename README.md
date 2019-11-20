@@ -11,7 +11,7 @@ Bot for automatic login and keeping account online for classic World of Warcraft
 Check settings file and update following:<br>
 login - your account name<br>
 password - account password<br>
-acc - combination of down (d) or up (u) arrow keys needed to chose correct account (if there are multiple accounts - just run the bot and you will see what is it). <br><br><i>REMINDER: if check box of "Remember account name" is set, this screen will never appear on startup, however it's possible to see this after disconnect</i><br><br>
+acc - combination of down (d) or up (u) arrow keys needed to chose correct account (only if you have multiple accounts - just run the bot and you will see what is it). <br><br><i>REMINDER: if check box of "Remember account name" is set, this screen will never appear on startup, however it's possible to see this after disconnect</i><br><br>
 server - the server name to login<br>
 WOW_PATH - path to WoW.exe<br>
 TES_PATH - path to tesseract.exe<br>
